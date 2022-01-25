@@ -1,0 +1,11 @@
+﻿Deadline,Hangout,Lazy,Activity
+Urgent,1,1,Play
+Urgent,0,1,Study
+Near,1,1,Play
+None,1,0,Play
+None,0,1,Chill
+None,1,0,Play
+Near,0,0,Study
+Near,0,1,Watch
+Near,1,1,Play
+Urgent,0,0,Study
