@@ -1,7 +1,7 @@
 import csv
 from typing import Any, List
-class Dataset():
-    def read_file(self, dir:str):
+class Dataset:
+    def __init__(self, dir:str):
         self.data = []
         self.field = {}
         self.field_values = {}
