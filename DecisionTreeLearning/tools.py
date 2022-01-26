@@ -46,5 +46,5 @@ def Entropy(dataset:Dataset, label_fieldname:str, attribute_fieldname:str=None, 
     return e_val
 
 if __name__ == '__main__':
-    dset = Dataset("./DecisionTreeLearning/data/kuis1.csv")
-    print(Entropy(dset,'Class'))
+    dset = Dataset("./DecisionTreeLearning/data/ex1.csv")
+    print(Entropy(dset,'PlayTennis'))
